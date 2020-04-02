@@ -1,0 +1,12 @@
+11
+push 30
+push 20
+push 10
+print
+insert 0 15
+print
+sort
+print
+find_first_of 20
+remove 2
+print
